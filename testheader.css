@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .head {
+    background: transparent;
+    margin: 0%;
+    padding: 0%;
+}
+.head.cache{
+  top: 100px;
+}
+.euro{
+  height: 32px;
+}
+
+  
+  .navigation {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+    font-size: 50%;
+  }
+
+  header{
+    position: fixed;
+    width: 100%;
+  }
+  .content {
+    padding: 16px;
+  }
